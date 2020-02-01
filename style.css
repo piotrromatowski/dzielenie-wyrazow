@@ -1,0 +1,12 @@
+body {
+    background-color: paleturquoise;
+}
+
+div {
+    width: 200px;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: red;
+    font-size: 20px;
+    word-break: break-all;
+}
